@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e4c3092.css",
+    "main.js": "/static/js/main.15f0fdd4.js",
+    "static/media/japura.png": "/static/media/japura.c8d1de43f4e2b4e93073.png",
+    "static/media/node.png": "/static/media/node.e1d9233897fbe03fda7b.png",
+    "static/media/1.jpg": "/static/media/1.53c954733e5ff33820e7.jpg",
+    "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/iintellij.png": "/static/media/iintellij.6cc0a02d550861c1c987.png",
+    "static/media/firebase.png": "/static/media/firebase.6f1a1b336c5d7f5b6a79.png",
+    "static/media/sourcetree.png": "/static/media/sourcetree.ab26543170d5d0b985f4.png",
+    "static/media/github.png": "/static/media/github.bc45ee99ee31457ba80a.png",
+    "static/media/11.jpg": "/static/media/11.928dbe881881b33bba7a.jpg",
+    "static/media/unity.png": "/static/media/unity.ef16d0fcd2e043d974c8.png",
+    "static/media/git.png": "/static/media/git.0983b7b8f96629e083f1.png",
+    "static/media/java.png": "/static/media/java.c9482e1db1344a8ff01e.png",
+    "static/media/bitbucket.png": "/static/media/bitbucket.5fcd4d176a9aafda4f6e.png",
+    "static/media/react.png": "/static/media/react.dcc679e5a23288678934.png",
+    "static/media/affiniti.png": "/static/media/affiniti.7d524fd810816e5195e4.png",
+    "static/media/postman.png": "/static/media/postman.167728b479ac29fae52a.png",
+    "static/media/androidstudio.png": "/static/media/androidstudio.554010a1e1fe637c1f47.png",
+    "static/media/vscode.png": "/static/media/vscode.219378f9e1aba9e6a3a2.png",
+    "static/media/springboot.png": "/static/media/springboot.1d3bbcfd40cc0b687de6.png",
+    "static/media/mongo.png": "/static/media/mongo.ef9ffce90d2d54c97e81.png",
+    "static/media/sass.png": "/static/media/sass.64e3fae91b2d7447dbb9.png",
+    "index.html": "/index.html",
+    "main.7e4c3092.css.map": "/static/css/main.7e4c3092.css.map",
+    "main.15f0fdd4.js.map": "/static/js/main.15f0fdd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4c3092.css",
+    "static/js/main.15f0fdd4.js"
+  ]
+}
