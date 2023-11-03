@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.952474fa.css",
-    "main.js": "/static/js/main.6e8bf84d.js",
+    "main.js": "/static/js/main.b473e77f.js",
+    "static/media/11.jpg": "/static/media/11.b14bbbc57d0e6b8aa8a4.jpg",
     "static/media/japura.png": "/static/media/japura.c8d1de43f4e2b4e93073.png",
     "static/media/node.png": "/static/media/node.e1d9233897fbe03fda7b.png",
     "static/media/1.jpg": "/static/media/1.53c954733e5ff33820e7.jpg",
@@ -10,7 +11,6 @@
     "static/media/firebase.png": "/static/media/firebase.6f1a1b336c5d7f5b6a79.png",
     "static/media/sourcetree.png": "/static/media/sourcetree.ab26543170d5d0b985f4.png",
     "static/media/github.png": "/static/media/github.bc45ee99ee31457ba80a.png",
-    "static/media/11.jpg": "/static/media/11.928dbe881881b33bba7a.jpg",
     "static/media/unity.png": "/static/media/unity.ef16d0fcd2e043d974c8.png",
     "static/media/git.png": "/static/media/git.0983b7b8f96629e083f1.png",
     "static/media/java.png": "/static/media/java.c9482e1db1344a8ff01e.png",
@@ -25,10 +25,10 @@
     "static/media/sass.png": "/static/media/sass.64e3fae91b2d7447dbb9.png",
     "index.html": "/index.html",
     "main.952474fa.css.map": "/static/css/main.952474fa.css.map",
-    "main.6e8bf84d.js.map": "/static/js/main.6e8bf84d.js.map"
+    "main.b473e77f.js.map": "/static/js/main.b473e77f.js.map"
   },
   "entrypoints": [
     "static/css/main.952474fa.css",
-    "static/js/main.6e8bf84d.js"
+    "static/js/main.b473e77f.js"
   ]
 }
